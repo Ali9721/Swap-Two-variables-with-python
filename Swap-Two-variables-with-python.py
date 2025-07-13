@@ -1,4 +1,4 @@
-# Define "a" & "b" as a variables .
+# Define "a" & "b" as variables .
 a = int(input("Please enter the first number: "))
 b = int(input("Please enter the second number: "))
 
